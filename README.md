@@ -70,5 +70,5 @@ The compiled files will be created in the `dist` folder.
 ## 📞 Contact
 
 For questions or feedback, please get in touch:
-- Email: [email@example.com](mailto:email@example.com)
-- GitHub: [GitHub Profile](https://github.com/username)
+- Email: [batuhanmuzafferoglu@gmail.com](mailto:batuhanmuzafferoglu@gmail.com)
+- GitHub: [GitHub Profile](https://github.com/batumzff)
